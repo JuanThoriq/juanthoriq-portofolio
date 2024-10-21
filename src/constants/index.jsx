@@ -61,8 +61,8 @@ export const EXPERIENCES = [
     year: "2024 - Present",
     role: "Software Developer Intern",
     company: "PT. Zahir Internasional",
-    description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
-    technologies: ["JavaScript", "React", "Next.js", "mongoDB"],
+    description: `Currently involved in an internship, focused on identifying problems to be solved through a potential application solution. Collaborating with the mentor to analyze and define the problem before moving into the development stage.`,
+    technologies: ["JavaScript", "React", "React Native", "mongoDB"],
   },
   // {
   //   year: "2022 - 2023",
