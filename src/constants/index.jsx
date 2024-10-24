@@ -90,22 +90,18 @@ export const EXPERIENCES = [
 export const PROJECTS = [
   {
     id: 1,
-    title: "Portofolio Website",
+    title: "Portfolio Website",
     image: project1,
     description:
       "My first personal portfolio website to showcase my skills, projects, expiriences, and contact information.",
     technologies: ["HTML", "CSS", "React", "Tailwind CSS"],
     link: [
       {
-        projectlink: "https://juanthoriq.github.io/CashierJo/",
-        projectlogo: <FaFigma />,
-      },
-      {
-        projectlink: "https://juanthoriq.github.io/CashierJo/",
+        projectlink: "https://github.com/JuanThoriq/juanthoriq-portofolio",
         projectlogo: <FaGithub />,
       },
       {
-        projectlink: "https://juanthoriq.github.io/CashierJo/",
+        projectlink: "https://juanthoriq-portofolio.vercel.app/",
         projectlogo: <CiGlobe />,
       },
     ],
