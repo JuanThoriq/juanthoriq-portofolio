@@ -29,7 +29,7 @@ const Hero = () => {
             {PROFILE.subheading}
           </p>
           <a
-            href="https://drive.google.com/file/d/1f57FV7XQHrActpvuoA3J_O3a4v5nggUu/view?usp=sharing"
+            href="https://drive.google.com/file/d/1yT5_WCCiN4xfTN9SCRgYK5H3UnOefSBn/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="transition ease-out duration-500 bg-white hover:bg-stone-400 p-4 rounded-full text-sm text-stone-800 font-medium my-8"
