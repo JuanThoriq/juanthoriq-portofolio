@@ -62,7 +62,7 @@ export const EXPERIENCES = [
     role: "Software Developer Intern",
     company: "PT. Zahir Internasional",
     description: `Currently involved in an internship, focused on identifying problems to be solved through a potential application solution. Collaborating with the mentor to analyze and define the problem before moving into the development stage.`,
-    technologies: ["JavaScript", "React", "React Native", "mongoDB"],
+    technologies: ["Dart", "Flutter", "Firebase", "Trello"],
   },
   // {
   //   year: "2022 - 2023",
