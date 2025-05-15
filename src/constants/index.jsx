@@ -3,6 +3,9 @@ import project2 from "../assets/projects/project-2.webp";
 import project3 from "../assets/projects/project-3.webp";
 import project4 from "../assets/projects/project-4.webp";
 import project5 from "../assets/projects/project-5.webp";
+import project6 from "../assets/projects/project-6.webp";
+import project7 from "../assets/projects/project-7.webp";
+import project8 from "../assets/projects/project-8.webp";
 
 import {
   RiReactjsLine,
@@ -19,7 +22,7 @@ import {
 // import { FaPython } from "react-icons/fa";
 // import { Icon } from "@iconify/react";
 
-import { FaGithub, FaLinkedin, FaInstagram, FaFigma } from "react-icons/fa";
+import { FaGithub, FaLinkedin, FaInstagram, FaFigma, FaGoogleDrive } from "react-icons/fa";
 import { CiGlobe } from "react-icons/ci";
 // import { CiGlobe } from "react-icons/ci";
 
@@ -58,11 +61,11 @@ export const TECHNOLOGIES = [
 
 export const EXPERIENCES = [
   {
-    year: "2024 - Present",
-    role: "Software Developer Intern",
-    company: "PT. Zahir Internasional",
-    description: `Currently involved in an internship, focused on identifying problems to be solved through a potential application solution. Collaborating with the mentor to analyze and define the problem before moving into the development stage.`,
-    technologies: ["Dart", "Flutter", "Firebase", "Trello"],
+    year: "2025 - Present",
+    role: "Full Stack Developer Intern",
+    company: "PT. Accelist Lentera Indonesia",
+    description: `Currently involved in an internship, focused on development stage like bug fixing, improvement feature, and creating application before golive.`,
+    technologies: ["React Native", "NextJS", ".NET", "SQL", "MySQL", "Github"],
   },
   // {
   //   year: "2022 - 2023",
@@ -186,6 +189,51 @@ export const PROJECTS = [
       {
         projectlink: "https://github.com/JuanThoriq/VKellogsJo",
         projectlogo: <FaGithub />,
+      },
+    ],
+  },
+  {
+    id: 6,
+    title: "Student Dashboard",
+    image: project6,
+    description:
+      "This project was built as part of a Ruangguru bootcamp project, focusing on creating clear and concise interface.",
+    technologies: ["HTML", "CSS", "JavaScript", "React"],
+    link: [
+      {
+        projectlink:
+          "https://drive.google.com/file/d/1NmGFqPZ8b0yT0nxlAhGdNpvjYiJJ5xRn/view?usp=sharing",
+        projectlogo: <FaGoogleDrive />,
+      },
+    ],
+  },
+  {
+    id: 7,
+    title: "NeWorld",
+    image: project7,
+    description:
+      "This project was built as part of a University Organizatin project, Ureeka, focusing on simple UI and using external API with consistent and reusable code in development.",
+    technologies: ["HTML", "CSS", "JavaScript", "React"],
+    link: [
+      {
+        projectlink:
+          "https://ne-world-ureeka-project.vercel.app/",
+        projectlogo: <CiGlobe />,
+      },
+    ],
+  },
+  {
+    id: 8,
+    title: "Task Manager",
+    image: project8,
+    description:
+      "This project was built as part of an internship training final project, focusing on creating a more intuitive and user-friendly interface.",
+    technologies: ["NextJS", ".NET", "SQL", "MySQL"],
+    link: [
+      {
+        projectlink:
+          "https://drive.google.com/file/d/18hRAoc5IMrBrFarT-nggHUZaNXQgkFQZ/view?usp=sharing",
+        projectlogo: <FaGoogleDrive />,
       },
     ],
   },

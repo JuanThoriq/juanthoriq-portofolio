@@ -22,7 +22,7 @@ const Project = () => {
                 className="rounded-t-lg w-full"
               />
             </div>
-            <div className="w-full p-4 relative">
+            <div className="flex flex-col justify-between flex-grow w-full p-4 relative min-h-[300px]">
               <h3 className="text-xl lg:text-2xl font-medium mb-2">
                 {project.title}
               </h3>
