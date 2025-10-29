@@ -160,7 +160,7 @@ export const PROJECTS = [
     link: [
       {
         projectlink:
-          "https://www.figma.com/proto/YKcG39zgLFB8QMBzKuxGv1/Prototype-WorkIn?node-id=0-1&t=sCuvJRNUN5H3HdDJ-1",
+          "https://www.figma.com/board/XqxSwPNrhQwhS0x4jFS9H0/WorkIn?node-id=0-1&t=d1oBMgmIwtcRqLHV-1",
         projectlogo: <FaFigma />,
       },
       {
