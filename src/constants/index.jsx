@@ -6,6 +6,7 @@ import project5 from "../assets/projects/project-5.webp";
 import project6 from "../assets/projects/project-6.webp";
 import project7 from "../assets/projects/project-7.webp";
 import project8 from "../assets/projects/project-8.webp";
+import project9 from "../assets/projects/project-9.webp";
 
 import {
   RiReactjsLine,
@@ -91,6 +92,21 @@ export const EXPERIENCES = [
 ];
 
 export const PROJECTS = [
+  {
+    id: 9,
+    title: "KMJ Company Profile",
+    image: project9,
+    description:
+      "A professional company profile website for KMJ, a marine industry business specializing in crewing management agency services.",
+    technologies: ["Claude", "Antigravity IDE"],
+    link: [
+      {
+        projectlink:
+          "https://www.kiamarine.com",
+        projectlogo: <CiGlobe />,
+      },
+    ],
+  },
   {
     id: 1,
     title: "Portfolio Website",
